@@ -1,0 +1,17 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(240, 240, 90);
+}
+
+.title {
+    font-family: helvetica, Arial, sans serif;
+    font-size: 80px;
+    text-align: center;
+    color: green
+}
+ 
+.recipe-list li {
+    font-size: 30px;
+    color: grey;
+    text-align: center;
+}
